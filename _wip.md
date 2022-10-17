@@ -1,1 +1,1 @@
-These hints are **work in progress**. Stay tuned for more or come help me writing the hints at [Github](https://github.com/nice-game-hints/whateverland).
+These hints are **work in progress**. Stay tuned for more. If you would like to have your name (and tip button!) visible above, please visit Whateverland hints [Github](https://github.com/nice-game-hints/whateverland) page and start contributing. Writing hints is easy and fun!
